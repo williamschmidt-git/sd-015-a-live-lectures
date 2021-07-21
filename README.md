@@ -9,3 +9,5 @@ Basta clonar o repositório
 ``` 
 git@github.com:tryber/sd-15-a-live-lectures.git
 ```
+
+Todos os conteúdos dados em aulas estarão no seu respectivo Pull Request.
