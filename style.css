@@ -102,6 +102,10 @@ li {
   margin-bottom: 20px;
 }
 
+.student-testimonial-wrapper p {
+  font-style: italic;
+}
+
 .student-container {
   max-width: 1200px;
   margin: 0 auto;
