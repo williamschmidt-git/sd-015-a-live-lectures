@@ -32,6 +32,7 @@ li {
   color: #11a36a;
   font-size: 28px;
   font-weight: 600;
+  margin-bottom: 70px;
 }
 
 .testim-name {
@@ -73,4 +74,17 @@ li {
 
 .header-text p {
   margin-bottom: 20px;
+}
+
+.market {
+  text-align: center;
+  padding: 100px;
+}
+
+.market-text {
+  padding: 0 450px;
+}
+
+.market-text p {
+  margin-bottom: 35px;
 }
