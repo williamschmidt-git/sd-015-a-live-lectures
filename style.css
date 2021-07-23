@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p,
+li {
+  font-size: 16px;
+  color: #475550;
+}
+
+/* h3, h4 {
+      color: #11a36a;
+    } */
+.trybe-green {
+  color: #11a36a;
+}
+
+.hero-title {
+  color: #0a7e51;
+  font-size: 45px;
+  line-height: 55px;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+
+.section-title {
+  color: #11a36a;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.testim-name {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+}
+
+.picture {
+  border-radius: 100px;
+}
+
+.button {
+  color: #ffffff;
+  background-color: #11a36a;
+  padding: 15px 30px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.header {
+  background-image: url(images/smiling-image.jpg);
+  background-size: cover;
+  background-position: 50% 25%;
+  height: 450px;
+  padding: 60px 30px 40px;
+}
+
+.header-content {
+  max-width: 600px;
+  margin-left: 200px;
+}
+
+.header-text {
+  max-width: 80%;
+}
+
+.header-text p {
+  margin-bottom: 20px;
+}
