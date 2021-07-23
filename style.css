@@ -88,3 +88,23 @@ li {
 .market-text p {
   margin-bottom: 35px;
 }
+
+.student-testimonial-wrapper {
+  display: inline-block;
+  width: 25%;
+  text-align: center;
+  margin: 0 20px;
+  vertical-align: top;
+}
+
+.student-testimonial-wrapper p,
+.student-testimonial-wrapper img {
+  margin-bottom: 20px;
+}
+
+.student-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 100px;
+}
